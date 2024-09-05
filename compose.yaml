@@ -1,6 +1,6 @@
 services:
   windows:
-    image: dockurr/windows
+    image: windows/windows
     environment:
       DISK_SIZE: "120G"
       RAM_SIZE: "14G"
